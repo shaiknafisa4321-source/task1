@@ -31,7 +31,7 @@ No installation needed:
 # To clone it with Git:
 
 bash
-git clone https://github.com/YOUR-USERNAME/https://github.com/shaiknafisa4321-source/task1.git
+git clone https://github.com/shaiknafisa4321-source/task1.git
 
 # Design Choices:
 
